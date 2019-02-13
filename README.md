@@ -25,8 +25,8 @@ ________________________________________________________________________________
   Well done
  __________________________________________________________________________________________________________________________________
 ```
-###Installation
+### Installation
 there is not a installation yet but you could just import this folder directly into your python project's folder
-#puns 
+# puns 
 the system of solar is called "solar system"
   
